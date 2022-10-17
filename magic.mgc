@@ -1,15 +1,15 @@
-create school.mgc then add the following lines into it
+#create school.mgc then add the following lines into it
 
 #!/bin/bash
 0 string SCHOOL School data
 !:mime School
 
-Then on Ur terminal run
+#Then on Ur terminal run
 
- file -C -m school.mgc
+#file -C -m school.mgc
 
-After that run 
-chmod u+x school.mgc
+#After that run 
+#chmod u+x school.mgc
 
 
 Then you  add, commit and push
